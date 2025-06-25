@@ -1,6 +1,3 @@
-CREATE TABLE Author
-CREATE TABLE Publisher  
-CREATE TABLE Book
 INSERT INTO Author  VALUES ('J.K. Rowling'), ('George Orwell'), ('Jane Austen');
 INSERT INTO Publisher VALUES ('Penguin'), ('Bloomsbury'), ('HarperCollins');
 INSERT INTO Book VALUES
